@@ -1,2 +1,2 @@
-Flask App - Python Data Visualization with Dash & Plotly
-![EBITDA_Contribution by Sector](https://github.com/user-attachments/assets/6bd05119-50f9-48f5-abaa-fb8ecc50fc69)
+Flask App (REST APIs) - Python Data Visualization with Dash & Plotly
+<img width="1419" alt="Screenshot 2024-08-23 at 9 45 14 PM" src="https://github.com/user-attachments/assets/27d0f85f-5012-44cf-ac77-9f3b60a7529d">
