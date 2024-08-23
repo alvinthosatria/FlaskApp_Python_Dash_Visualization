@@ -5,8 +5,8 @@ app = Flask(__name__)
 df = pd.read_csv('./constituents-financials_csv.csv')
 
 @app.route('/')
-def hello_world():  # put application's code here
-    return 'Hello World!'
+def app_started():
+    return 'App started!'
 
 @app.route('/Sector')
 def list_unique_sectors():
